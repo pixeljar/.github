@@ -1,1 +1,1 @@
-# .github
+Pixel Jar is a skilled web development agency that focuses on WordPress as a development platform for websites. Pixel Jar started in 2004. It grew from a desire to choose projects that challenge us and work with clients that inspire us.
